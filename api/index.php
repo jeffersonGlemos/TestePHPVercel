@@ -1,3 +1,4 @@
 <?php
 require_once __DIR__ . '/../vendor/autoload.php';
-echo 'Olá Vercel';
+
+echo $_ENV['hello'] ?? 'Olá Vercel';
