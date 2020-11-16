@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/VercelTeste",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jefferson.lemos",
+      "email": "jefferson_jipa14@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.3"
+  }
+}
